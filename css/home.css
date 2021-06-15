@@ -774,6 +774,10 @@ img{
     /* position: relative; */
 }
 
+.experience a{
+    text-decoration: none;
+}
+
 .experience h1{
     font-size: 3.5em;
     padding-left: 4em;
